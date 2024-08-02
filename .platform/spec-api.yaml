@@ -3,7 +3,7 @@ kind: API
 metadata:
   name: app-demo-spec-20240802
   title: app-demo-spec-20240802
-  publishedAt: "2024-08-02 15:00:10"
+  publishedAt: "2024-08-02 15:14:27"
   description: This is a sample server Pet
   tags:
     - "20240802"
